@@ -11,5 +11,4 @@ Saurav Sharma (saurav2049@hotmail.com)
 Dipesh Kumar  (dipesh009@gmail.com)
  
 
-iBroughtGreen is an online project that tags your name on a tree with a 1 dollar funding. The raised fund will help a charatity or any other such organization to Conserver and Protect the particular tree by his/her name.
-
+iBroughtGreen is an online project that tags your name on a tree with the fund of only a US-Dollar. The raised fund will help a charity or any other such organization to Conserver and Protect the particular tree by his/her name.
