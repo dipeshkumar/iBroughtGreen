@@ -11,4 +11,4 @@ Dipesh Kumar  (dipesh009@gmail.com)
  
 
 
-iBroughtGreen is an online project that tags your name on our website's map with the fund of only a US-Dollar. The raised fund will help any plantation group worldwide to conserve and protect environment.
+iBroughtGreen is an online project that tags your name on our website's map with the fund of only a US-Dollar. The raised fund will help any environmental community worldwide to conserve and protect environment.
